@@ -1,3 +1,6 @@
 Titanic Survival Prediction
-Model : Random Forest
+
+Applied multiple models and GridSearch CV
+
+Best Model : Random Forest
 Accuracy : 0.843575
